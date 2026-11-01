@@ -215,4 +215,4 @@ CamStudio is offered as a **complete free version**, providing full access to al
 Ready to create amazing video tutorials? **Download CamStudio free today and start recording with ease!**
 
 ---
-**Last updated:** 2026-11-01 14:53:50 UTC
+**Last updated:** 2026-11-01 19:27:17 UTC
